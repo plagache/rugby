@@ -1,0 +1,4 @@
+dataset/*
+output/*
+weights/*
+uv.lock
