@@ -24,7 +24,7 @@ def cluster_teams(colors, k=3):
 
 
 def main():
-    video_path = "before/rugby.mp4"
+    video_path = "dataset/rugby.mp4"
     model = YOLO("weights/yolo26n.pt")
 
     import os
