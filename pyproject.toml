@@ -6,3 +6,7 @@ dependencies = [
     "ultralytics",
     "opencv-python-headless",
 ]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = []

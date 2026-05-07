@@ -3,7 +3,7 @@ analyzing rugby matches
 
 ## install
 ```sh
-rm -rf .venv && uv venv --python 3.14 .venv && uv pip install -e .
+rm -rf .venv && uv venv --python 3.12 .venv && uv pip install -e .
 ```
 
 ## run
